@@ -19,6 +19,10 @@
 3. To execute the GET API click the blue `Execute` button.
 4. To execute the POST API upload the json file first. You can use the json files from the project or upload your files. Then click the blue `Execute` button.
 
+## What to Expect
+1. In POST call: If you provide the json as per the provided assesment pdf format you will see the JSON after the POST API call. If you upload any file with wrong input you will get to see the error in Response body.
+4. In GET call: You will see the saved data as JSON.
+
 ## File usage
 1. In the app folder, the `application.py` file is the entry point for the Rest API. This file has the Restful APIs defained.2. 
 3. The `db_handler.py` file handles the connection to the Database. I have setup the `DATABASE_URL` in `docker-compose.yaml` file.
