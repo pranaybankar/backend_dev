@@ -9,7 +9,7 @@
 ## Setup
 1. Clone this repository in you system using git clone `git clone git@github.com:pranaybankar/backend_dev.git`.
 2. Make sure Docker is running on your laptop.
-3. Go inside peoject and run this command `docker-compose up --build` to build this project. FastAPI will take some time to run the project.
+3. Go inside peoject and run this command `docker-compose up --build` in `git bash` or `Terminal` to build this project. FastAPI will take some time to run the project.
 4. Please click this [link](http://127.0.0.1:8000/) to access the project UI. And follow the instructions.
 
 ## Play Around
