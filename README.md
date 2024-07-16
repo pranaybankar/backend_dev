@@ -1,9 +1,10 @@
 # Banking Transactions application
 ## Some considerations
 1. I have not give this project any identifiable name, so please do not judge me on that.
-2. I have used SQLITE as DB for this project.
-3. Using FastAPI and UVICRON for creating the RestFul APIs.
-4. Used SqlAlchemy for ORM.
+2. I have added only the GET and POST calls for now and added comments for DELETE and PUT for future implimentations.
+3. I have used SQLITE as DB for this project.
+4. Using FastAPI and UVICRON for creating the RestFul APIs.
+5. Used SqlAlchemy for ORM.
 
 ## Setup
 1. Clone this repository in you system using git clone `git clone git@github.com:pranaybankar/backend_dev.git`.
