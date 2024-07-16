@@ -5,6 +5,7 @@
 3. I have used SQLITE as DB for this project.
 4. Using FastAPI and UVICRON for creating the RestFul APIs.
 5. Used SqlAlchemy for ORM.
+6. It took me 5 hours to setup, VSCode, Git bash, SSH key, Project, Dockerisation.
 
 ## Setup
 1. Clone this repository in you system using git clone `git clone git@github.com:pranaybankar/backend_dev.git`.
